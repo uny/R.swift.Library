@@ -1,0 +1,7 @@
+platform :ios, '8.0'
+
+target 'CocoaPods' do
+  use_frameworks!
+
+  pod 'R.swift', '4.0.0'
+end
