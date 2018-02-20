@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0900"
+   LastUpgradeVersion = "0920"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D592464D1C117A55007F94C7"
+               BlueprintIdentifier = "AA28B07B203BAAE400F77247"
                BuildableName = "Rswift.framework"
-               BlueprintName = "Rswift-iOS"
-               ReferencedContainer = "container:R.swift.Library.xcodeproj">
+               BlueprintName = "Rswift"
+               ReferencedContainer = "container:Rswift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -26,26 +26,27 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D59246571C117A55007F94C7"
-               BuildableName = "RswiftTests-iOS.xctest"
-               BlueprintName = "RswiftTests-iOS"
-               ReferencedContainer = "container:R.swift.Library.xcodeproj">
+               BlueprintIdentifier = "AA28B084203BAAE500F77247"
+               BuildableName = "RswiftTests.xctest"
+               BlueprintName = "RswiftTests"
+               ReferencedContainer = "container:Rswift.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D592464D1C117A55007F94C7"
+            BlueprintIdentifier = "AA28B07B203BAAE400F77247"
             BuildableName = "Rswift.framework"
-            BlueprintName = "Rswift-iOS"
-            ReferencedContainer = "container:R.swift.Library.xcodeproj">
+            BlueprintName = "Rswift"
+            ReferencedContainer = "container:Rswift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,6 +56,7 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      language = ""
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
@@ -64,10 +66,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D592464D1C117A55007F94C7"
+            BlueprintIdentifier = "AA28B07B203BAAE400F77247"
             BuildableName = "Rswift.framework"
-            BlueprintName = "Rswift-iOS"
-            ReferencedContainer = "container:R.swift.Library.xcodeproj">
+            BlueprintName = "Rswift"
+            ReferencedContainer = "container:Rswift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -82,10 +84,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D592464D1C117A55007F94C7"
+            BlueprintIdentifier = "AA28B07B203BAAE400F77247"
             BuildableName = "Rswift.framework"
-            BlueprintName = "Rswift-iOS"
-            ReferencedContainer = "container:R.swift.Library.xcodeproj">
+            BlueprintName = "Rswift"
+            ReferencedContainer = "container:Rswift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
