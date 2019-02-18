@@ -20,7 +20,6 @@
 		AA28B0DC203BB96200F77247 /* ReuseIdentifierProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA28B0BD203BB96200F77247 /* ReuseIdentifierProtocol.swift */; };
 		AA28B0DD203BB96200F77247 /* StringResource.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA28B0BE203BB96200F77247 /* StringResource.swift */; };
 		AA28B0DE203BB96200F77247 /* StoryboardResource.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA28B0BF203BB96200F77247 /* StoryboardResource.swift */; };
-		AA28B0DF203BB96200F77247 /* ColorPaletteItemResource.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA28B0C0203BB96200F77247 /* ColorPaletteItemResource.swift */; };
 		AA28B0E0203BB96200F77247 /* StoryboardSegueIdentifierProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA28B0C1203BB96200F77247 /* StoryboardSegueIdentifierProtocol.swift */; };
 		AA28B0E1203BB96200F77247 /* Identifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA28B0C2203BB96200F77247 /* Identifier.swift */; };
 		AA28B0E2203BB96200F77247 /* UIViewController+StoryboardSegueIdentifierProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA28B0C4203BB96200F77247 /* UIViewController+StoryboardSegueIdentifierProtocol.swift */; };
@@ -33,7 +32,6 @@
 		AA28B0E9203BB96200F77247 /* UIFont+FontResource.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA28B0CB203BB96200F77247 /* UIFont+FontResource.swift */; };
 		AA28B0EA203BB96200F77247 /* UICollectionView+ReuseIdentifierProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA28B0CC203BB96200F77247 /* UICollectionView+ReuseIdentifierProtocol.swift */; };
 		AA28B0EB203BB96200F77247 /* UINib+NibResource.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA28B0CD203BB96200F77247 /* UINib+NibResource.swift */; };
-		AA28B0EC203BB96200F77247 /* ColorPaletteItemResource+UIKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA28B0CE203BB96200F77247 /* ColorPaletteItemResource+UIKit.swift */; };
 		AA28B0ED203BB96200F77247 /* UIStoryboard+StoryboardViewControllerResource.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA28B0CF203BB96200F77247 /* UIStoryboard+StoryboardViewControllerResource.swift */; };
 		AA28B0EE203BB96200F77247 /* UIColor+ColorResource.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA28B0D0203BB96200F77247 /* UIColor+ColorResource.swift */; };
 		AA28B0EF203BB96200F77247 /* UIStoryboard+StoryboardResource.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA28B0D1203BB96200F77247 /* UIStoryboard+StoryboardResource.swift */; };
@@ -68,7 +66,6 @@
 		AA28B0BD203BB96200F77247 /* ReuseIdentifierProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReuseIdentifierProtocol.swift; sourceTree = "<group>"; };
 		AA28B0BE203BB96200F77247 /* StringResource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringResource.swift; sourceTree = "<group>"; };
 		AA28B0BF203BB96200F77247 /* StoryboardResource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoryboardResource.swift; sourceTree = "<group>"; };
-		AA28B0C0203BB96200F77247 /* ColorPaletteItemResource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorPaletteItemResource.swift; sourceTree = "<group>"; };
 		AA28B0C1203BB96200F77247 /* StoryboardSegueIdentifierProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoryboardSegueIdentifierProtocol.swift; sourceTree = "<group>"; };
 		AA28B0C2203BB96200F77247 /* Identifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Identifier.swift; sourceTree = "<group>"; };
 		AA28B0C4203BB96200F77247 /* UIViewController+StoryboardSegueIdentifierProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIViewController+StoryboardSegueIdentifierProtocol.swift"; sourceTree = "<group>"; };
@@ -81,7 +78,6 @@
 		AA28B0CB203BB96200F77247 /* UIFont+FontResource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIFont+FontResource.swift"; sourceTree = "<group>"; };
 		AA28B0CC203BB96200F77247 /* UICollectionView+ReuseIdentifierProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UICollectionView+ReuseIdentifierProtocol.swift"; sourceTree = "<group>"; };
 		AA28B0CD203BB96200F77247 /* UINib+NibResource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UINib+NibResource.swift"; sourceTree = "<group>"; };
-		AA28B0CE203BB96200F77247 /* ColorPaletteItemResource+UIKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ColorPaletteItemResource+UIKit.swift"; sourceTree = "<group>"; };
 		AA28B0CF203BB96200F77247 /* UIStoryboard+StoryboardViewControllerResource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIStoryboard+StoryboardViewControllerResource.swift"; sourceTree = "<group>"; };
 		AA28B0D0203BB96200F77247 /* UIColor+ColorResource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+ColorResource.swift"; sourceTree = "<group>"; };
 		AA28B0D1203BB96200F77247 /* UIStoryboard+StoryboardResource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIStoryboard+StoryboardResource.swift"; sourceTree = "<group>"; };
@@ -169,7 +165,6 @@
 				AA28B0BD203BB96200F77247 /* ReuseIdentifierProtocol.swift */,
 				AA28B0BE203BB96200F77247 /* StringResource.swift */,
 				AA28B0BF203BB96200F77247 /* StoryboardResource.swift */,
-				AA28B0C0203BB96200F77247 /* ColorPaletteItemResource.swift */,
 				AA28B0C1203BB96200F77247 /* StoryboardSegueIdentifierProtocol.swift */,
 				AA28B0C2203BB96200F77247 /* Identifier.swift */,
 			);
@@ -189,7 +184,6 @@
 				AA28B0CB203BB96200F77247 /* UIFont+FontResource.swift */,
 				AA28B0CC203BB96200F77247 /* UICollectionView+ReuseIdentifierProtocol.swift */,
 				AA28B0CD203BB96200F77247 /* UINib+NibResource.swift */,
-				AA28B0CE203BB96200F77247 /* ColorPaletteItemResource+UIKit.swift */,
 				AA28B0CF203BB96200F77247 /* UIStoryboard+StoryboardViewControllerResource.swift */,
 				AA28B0D0203BB96200F77247 /* UIColor+ColorResource.swift */,
 				AA28B0D1203BB96200F77247 /* UIStoryboard+StoryboardResource.swift */,
@@ -324,14 +318,12 @@
 				AA28B0EE203BB96200F77247 /* UIColor+ColorResource.swift in Sources */,
 				AA28B0EB203BB96200F77247 /* UINib+NibResource.swift in Sources */,
 				AA28B0DD203BB96200F77247 /* StringResource.swift in Sources */,
-				AA28B0DF203BB96200F77247 /* ColorPaletteItemResource.swift in Sources */,
 				AA28B0E9203BB96200F77247 /* UIFont+FontResource.swift in Sources */,
 				AA28B0DE203BB96200F77247 /* StoryboardResource.swift in Sources */,
 				AA28B0D8203BB96200F77247 /* NibResource.swift in Sources */,
 				AA28B0E6203BB96200F77247 /* UIImage+ImageResource.swift in Sources */,
 				AA28B0F0203BB96200F77247 /* Bundle+FileResource.swift in Sources */,
 				AA28B0D7203BB96200F77247 /* FontResource.swift in Sources */,
-				AA28B0EC203BB96200F77247 /* ColorPaletteItemResource+UIKit.swift in Sources */,
 				AA28B0EA203BB96200F77247 /* UICollectionView+ReuseIdentifierProtocol.swift in Sources */,
 				AA28B0DB203BB96200F77247 /* StoryboardViewControllerResource.swift in Sources */,
 				AA28B0E8203BB96200F77247 /* NibResource+UIKit.swift in Sources */,
